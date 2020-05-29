@@ -6,3 +6,6 @@ I will figure this out when I get here.
 
 ## Documentation
 I will figure this out when I get here.
+
+## Objectives
+- The ability to combine videos next to each other
