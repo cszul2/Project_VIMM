@@ -1,5 +1,5 @@
 # Project VIMM
-This project is being designed for various Video and Image Manipulation Moduals (VIMM) that I have needed, but never had ready for my own projects.
+This project is being designed for various Video and Image Manipulation Modules (VIMM) that I have needed, but never had ready for my own projects.
 
 ## Requirements
 I will figure this out when I get here.
